@@ -627,11 +627,4 @@ https://www.ncsc.gov.uk/collection/end-user-device-security/platform-specific-gu
 https://wiki.ubuntu.com/Security/Features +
 https://help.ubuntu.com/community/StricterDefaults +
 
-== Contributing
-Do you want to contribute? That's great! Contributions are always welcome,
-no matter how large or small. If you found something odd, feel free to
-https://github.com/konstruktoid/hardening/issues/[submit a new issue],
-improve the code by https://github.com/konstruktoid/hardening/pulls[creating a pull request],
-or by https://github.com/sponsors/konstruktoid[sponsoring this project].
-
-Logo by https://github.com/reallinfo[reallinfo].
+== NOTE: THIS is a fork with personal security addtions. Much of the code is just the originals, with some extras. I will not be merging. Feel free to do yourself though.
