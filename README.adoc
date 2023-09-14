@@ -16,10 +16,6 @@ link:README.adoc#tests[instructions here].
 
 Eveything you see here is not set in stone. Expect the unexpected.
 
-NOTE: There is a https://slsa.dev/[SLSA] artifact present under the
-https://github.com/konstruktoid/hardening/actions/workflows/slsa.yml[slsa workflow]
-for file checksum verification.
-
 **Quick no-brainer one-liner...**
 ***Note: requires admin privileges***
 
