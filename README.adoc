@@ -20,7 +20,7 @@ Eveything you see here is not set in stone. Expect the unexpected.
 ***Note: requires admin privileges***
 
 ```
-sudo apt update -y && sudo apt-get -y install git net-tools procps --no-install-recommends && git clone https://github.com/CamoCatX/Ubuntu-hardeded.git && cd Ubuntu-hardeded && sudo bash ubuntu.sh
+sudo apt update -y && sudo apt-get -y install git net-tools procps --no-install-recommends && sudo git clone https://github.com/CamoCatX/Ubuntu-hardeded.git && cd Ubuntu-hardeded && sudo bash ubuntu.sh
 ```
 === Recommended partitions and options
 ***Note: don't worry if you are confused, https://www.google.com/advanced_search[google it!]***
